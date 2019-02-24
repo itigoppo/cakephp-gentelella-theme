@@ -1,6 +1,5 @@
 <?php
 use Cake\Core\Configure;
-use Gentelella\Application;
 
 Configure::write('Theme', [
     'title' => 'Gentelella',
@@ -15,4 +14,3 @@ Configure::write('Theme', [
     ]
 ]);
 
-Application::addPlugin('BootstrapUI');
