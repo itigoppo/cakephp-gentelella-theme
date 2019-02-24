@@ -14,8 +14,8 @@
     }
   ],
   "require": {
-    "php": ">=5.4.16",
-    "cakephp/cakephp": "~3.0",
+    "php": ">=7.2",
+    "cakephp/cakephp": "^3.7",
     "friendsofcake/bootstrap-ui":"@stable"
   },
   "require-dev": {
@@ -31,4 +31,3 @@
     "source": "https://github.com/maiconpinto/cakephp-gentelella-theme"
   }
 }
-
